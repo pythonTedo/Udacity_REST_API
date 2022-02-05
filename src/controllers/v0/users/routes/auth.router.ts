@@ -24,7 +24,7 @@ async function comparePasswords(plainTextPassword: string, hash: string): Promis
 }
 
 function generateJWT(user: User): string {
-    //@TODO Use jwt to create a new JWT Payload containing
+    //Drddsd;
     return "jwt"
 }
 
